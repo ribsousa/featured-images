@@ -3,11 +3,11 @@ Adds a field to upload image to Rainlab Blog Category
 
 
 Install the **RainLab.Blog plugin**
-
-First you have to make sure you have added the RainLab.Blog plugin to your project.
-Then add the Ribsousa.Featuredimages plugin.
-Now you'll find a file field in the Blog Category when you add or edit a Category.
-
+```
+ First you have to make sure you have added the RainLab.Blog plugin to your project.
+ Then add the Ribsousa.Featuredimages plugin.
+ Now you'll find a file field in the Blog Category when you add or edit a Category.
+```
 
 ## How to use it in a blog post or category page
 
