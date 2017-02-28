@@ -13,7 +13,7 @@ class Plugin extends PluginBase
         return [
             'name'        => 'ribsousa.featuredimages::lang.plugin.name',
             'description' => 'ribsousa.featuredimages::lang.plugin.description',
-            'author'      => 'Ronaldo',
+            'author'      => 'Ronaldo Ribeiro',
             'icon'        => 'icon-file'
         ];
     }
