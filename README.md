@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://avatars2.githubusercontent.com/u/5554805?s=200&v=4" alt="October" width="20%" height="20%" />
+    <a href="https://octobercms.com">
+        <img src="https://avatars2.githubusercontent.com/u/5554805?s=200&v=4" alt="October" width="20%" height="20%" />
+    </a>
 </p>
 
 # featured-images
