@@ -1,3 +1,7 @@
+
+![GitHub Logo](https://avatars2.githubusercontent.com/u/5554805?s=200&v=4)
+[Octobercms](https://octobercms.com)
+
 # featured-images
 Adds a field to upload image to Rainlab Blog Category
 
