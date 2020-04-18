@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://octobercms.com">
+    <a href="https://octobercms.com/plugin/ribsousa-featuredimages">
         <img src="https://avatars2.githubusercontent.com/u/5554805?s=200&v=4" alt="October" width="20%" height="20%" />
     </a>
 </p>
